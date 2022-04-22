@@ -8,7 +8,7 @@
     <li>Average Selling Price Yesterday:{{itemData.avg_price_yesterday}}</li>
      <li>Number of Sold Items Yesterday: {{itemData.number_sales_yesterday}}</li>
      <li>Average Selling Price Last 30 Days: {{itemData.avg_price_30}}</li>
-     <li>Average Number of Sales Last 30 Days: {{itemData.avg_sales_30}}</li>
+     <li>Average Number of Sales last 30 Days: {{itemData.avg_sales_30}}</li>
     </ul>
   </div>
 </template>
